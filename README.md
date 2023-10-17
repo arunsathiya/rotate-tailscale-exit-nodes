@@ -10,3 +10,5 @@ Steps to run:
 - Run `./rotate.sh`
 
 If you use a program like Keyboard Maestro, you can also configure an action to run that script with a hotkey.
+
+<img width="859" alt="image" src="https://github.com/arunsathiya/rotate-tailscale-exit-nodes/assets/18581859/2aaee8a1-954c-4791-80b9-81e8314c8e82">
