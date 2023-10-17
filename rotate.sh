@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 TAILSCALE_BIN="/Applications/Tailscale.app/Contents/MacOS/Tailscale" 
 
